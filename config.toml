@@ -1,0 +1,15 @@
+baseURL = "http://utools.site/"
+languageCode = "zh-CN"
+title = "akiraka's 网址导航"
+theme = "webstack-hugo"
+preserveTaxonomyNames = true
+disablePathToLower = true
+hasCJKLanguage = true
+copyright = ""
+[params]
+  author = "akiraka"
+  description = "akiraka's 网址导航"
+[params.search]
+  enable = true
+[params.darkmode]
+  enable = false
