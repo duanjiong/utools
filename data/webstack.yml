@@ -7,13 +7,20 @@
       logo: assets/images/logos/jandan.ico
       url: https://jandan.net
       description: 全球华人唯一指定官方摸鱼平台。(R.I.P.妹子图)
+    - title: chiphell
+      url: https://www.chiphell.com/
+    - title: chouti
+      url: https://dig.chouti.com/
+    - title: 吾爱破解
+      url: https://www.52pojie.cn/
 
 - taxonomy: 影音娱乐
   icon: fa-pencil
   links:
-    - title: Tools | DigitalOcean
-      url: https://www.digitalocean.com/community/tools
-      description: Tools, Apps, Wrappers, and API Integrations created by DigitalOcean and the developer community.
+    - title: Youtube Music
+      url: https://music.youtube.com/
+    - title: jubt
+      url: jubt.top
 
 - taxonomy: 在线文档
   icon: fa-pencil
@@ -24,34 +31,20 @@
 
 - taxonomy: 探索发现
   icon: fa-pencil
-  list:
-    - term: 为了梦想
-      links:
-        - title: Photoshop Lady
-          url: http://www.photoshoplady.com/
-          logo: assets/images/logos/PhotoshopLady.png
-          description: Your Favourite Photoshop Tutorials in One Place
-    - term: 奇趣小站
-      links:
-        - title: 优设网
-          url: http://www.uisdc.com/
-          logo: assets/images/logos/uisdc.png
-          description: 设计师交流学习平台
+  links:
+    - title: LWN
+      url: https://lwn.net/
+    - title: Linux Newbies
+      url: https://kernelnewbies.org/
 
 - taxonomy: 效率工具
   icon: fa-pencil
-  list:
-    - term: 解放双手
-      links:
-        - title: Tools | DigitalOcean
-          url: https://www.digitalocean.com/community/tools
-          description: Tools, Apps, Wrappers, and API Integrations created by DigitalOcean and the developer community.
-    - term: 节约时间
-      links:
-        - title: 优设网
-          url: http://www.uisdc.com/
-          logo: assets/images/logos/uisdc.png
-          description: 设计师交流学习平台
+  links:
+    - title: 67tool
+      url: https://www.67tool.com/
+    - title: Tools | DigitalOcean
+        url: https://www.digitalocean.com/community/tools
+        description: Tools, Apps, Wrappers, and API Integrations created by DigitalOcean and the developer community.
 
 - taxonomy: 陶冶情操
   icon: fa-pencil
