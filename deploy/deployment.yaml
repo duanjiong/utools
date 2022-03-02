@@ -1,0 +1,24 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: utools-site
+  namespace: utools-site
+  labels:
+    app: utools-site
+spec:
+  replicas: 1
+  template:
+    metadata:
+      name: utools-site
+      namespace: utools-site
+      labels:
+        app: utools-site
+    spec:
+      containers:
+        - name: utools-site
+          image: duanjiong/utools-site:v0.1
+          imagePullPolicy: IfNotPresent
+      restartPolicy: Always
+  selector:
+    matchLabels:
+      app: utools-site

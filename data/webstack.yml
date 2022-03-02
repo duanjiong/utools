@@ -43,8 +43,8 @@
     - title: 67tool
       url: https://www.67tool.com/
     - title: Tools | DigitalOcean
-        url: https://www.digitalocean.com/community/tools
-        description: Tools, Apps, Wrappers, and API Integrations created by DigitalOcean and the developer community.
+      url: https://www.digitalocean.com/community/tools
+      description: Tools, Apps, Wrappers, and API Integrations created by DigitalOcean and the developer community.
 
 - taxonomy: 陶冶情操
   icon: fa-pencil
